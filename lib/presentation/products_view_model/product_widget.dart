@@ -58,6 +58,7 @@ class ProductWidget extends StatelessWidget {
                 )
               ],
             ),
+
                 SizedBox(
                   height: 8.h,
                 ),
