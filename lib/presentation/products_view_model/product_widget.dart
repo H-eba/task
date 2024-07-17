@@ -51,7 +51,6 @@ class ProductWidget extends StatelessWidget {
                     ),
                   ),
                 ),
-
                SvgPicture.asset(
                   AssetsManager.whishSelected,
                   height: 30.h,
